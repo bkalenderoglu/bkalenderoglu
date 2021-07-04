@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="300" />
 
-- 🌱 I’m currently learning **React JS, C# and .Net Core** 
+- 🌱 I’m currently learning **React JS, and C#** 
 - 📝 I regularly write articles on [My Medium Page](https://bkalenderoglu.medium.com/)
 - 📫 How to reach me **bkalenderoglu1@gmail.com**
 
